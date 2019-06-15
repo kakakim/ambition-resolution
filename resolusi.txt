@@ -1,0 +1,4 @@
+resolusi
+-konsisten
+-mebuat platform untuk membuat managemen system
+-membuat forum diskusi
